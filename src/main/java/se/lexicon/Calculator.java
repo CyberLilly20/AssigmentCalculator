@@ -6,7 +6,7 @@ public class Calculator {
 
     public static void menu() {
 
-        System.out.println("Welcome to Basic Calculator");
+        System.out.println("¤¤¤ Welcome to Basic Calculator ¤¤¤");
         System.out.println("The following operations are supported :");
         System.out.println(" Addition " + "+");
         System.out.println(" Subscription" + "-");
